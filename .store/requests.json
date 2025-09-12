@@ -1,0 +1,327 @@
+{
+  "req_mfg8w7o4_mpykmcef": {
+    "id": "req_mfg8w7o4_mpykmcef",
+    "accountId": "standalone123",
+    "brief": {
+      "goal": "Test with file store",
+      "socialPlatform": "instagram",
+      "tone": "casual"
+    },
+    "status": "failed",
+    "createdAt": "2025-09-12T02:55:43.828Z",
+    "updatedAt": "2025-09-12T02:55:44.512Z",
+    "errorMessage": "brand.tone.join is not a function"
+  },
+  "req_mfg8ymb7_02wo4tg1": {
+    "id": "req_mfg8ymb7_02wo4tg1",
+    "accountId": "standalone123",
+    "brief": {
+      "goal": "Test after tone fix complete",
+      "socialPlatform": "instagram",
+      "tone": "casual"
+    },
+    "status": "completed",
+    "createdAt": "2025-09-12T02:57:36.115Z",
+    "updatedAt": "2025-09-12T02:57:45.263Z"
+  },
+  "req_mfg90l0t_ht194yot": {
+    "id": "req_mfg90l0t_ht194yot",
+    "accountId": "demo_1",
+    "brief": {
+      "goal": "get me a job",
+      "theme": "",
+      "callToAction": "hire rick",
+      "constraints": [],
+      "socialPlatform": "linkedin"
+    },
+    "status": "failed",
+    "createdAt": "2025-09-12T02:59:07.757Z",
+    "updatedAt": "2025-09-12T02:59:08.833Z",
+    "errorMessage": "Brand profile not found"
+  },
+  "req_mfg95crw_843uykx3": {
+    "id": "req_mfg95crw_843uykx3",
+    "accountId": "demo_1",
+    "brief": {
+      "goal": "drive traffic to my swe portfolio at https://rickallen.dev",
+      "theme": "",
+      "callToAction": "Hire Rick!",
+      "constraints": [],
+      "socialPlatform": "instagram"
+    },
+    "status": "failed",
+    "createdAt": "2025-09-12T03:02:50.348Z",
+    "updatedAt": "2025-09-12T03:02:51.650Z",
+    "errorMessage": "Brand profile not found"
+  },
+  "req_mfg9azoo_shnwyj6c": {
+    "id": "req_mfg9azoo_shnwyj6c",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "failed",
+    "createdAt": "2025-09-12T03:07:13.320Z",
+    "updatedAt": "2025-09-12T03:07:14.489Z",
+    "errorMessage": "Brand profile not found"
+  },
+  "req_mfg9b644_criq5p7v": {
+    "id": "req_mfg9b644_criq5p7v",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "failed",
+    "createdAt": "2025-09-12T03:07:21.652Z",
+    "updatedAt": "2025-09-12T03:07:22.970Z",
+    "errorMessage": "Brand profile not found"
+  },
+  "req_mfg9esi9_efhevopc": {
+    "id": "req_mfg9esi9_efhevopc",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "failed",
+    "createdAt": "2025-09-12T03:10:10.641Z",
+    "updatedAt": "2025-09-12T03:10:11.690Z",
+    "errorMessage": "Brand profile not found"
+  },
+  "req_mfg9frsi_ygwl1631": {
+    "id": "req_mfg9frsi_ygwl1631",
+    "accountId": "demo_1",
+    "brief": {
+      "goal": "Bore people to death with AI content",
+      "theme": "",
+      "callToAction": "Learn less",
+      "constraints": [],
+      "socialPlatform": "facebook"
+    },
+    "status": "failed",
+    "createdAt": "2025-09-12T03:10:56.370Z",
+    "updatedAt": "2025-09-12T03:10:57.201Z",
+    "errorMessage": "Brand profile not found"
+  },
+  "req_mfg9jyzx_efa18ojr": {
+    "id": "req_mfg9jyzx_efa18ojr",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:14:12.333Z",
+    "updatedAt": "2025-09-12T03:14:12.333Z"
+  },
+  "req_mfg9kd50_jxluatw7": {
+    "id": "req_mfg9kd50_jxluatw7",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:14:30.660Z",
+    "updatedAt": "2025-09-12T03:14:30.660Z"
+  },
+  "req_mfg9mg0d_x66ye56y": {
+    "id": "req_mfg9mg0d_x66ye56y",
+    "accountId": "demo_1",
+    "brief": {
+      "goal": "Tick off tiktokers",
+      "theme": "",
+      "callToAction": "Enrage!",
+      "constraints": [],
+      "socialPlatform": "tiktok"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:16:07.693Z",
+    "updatedAt": "2025-09-12T03:16:07.693Z"
+  },
+  "req_mfg9o3es_nlan1mf1": {
+    "id": "req_mfg9o3es_nlan1mf1",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:17:24.676Z",
+    "updatedAt": "2025-09-12T03:17:24.676Z"
+  },
+  "req_mfg9o72f_hds3raz0": {
+    "id": "req_mfg9o72f_hds3raz0",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:17:29.415Z",
+    "updatedAt": "2025-09-12T03:17:29.415Z"
+  },
+  "req_mfg9pddc_j1x1v5z0": {
+    "id": "req_mfg9pddc_j1x1v5z0",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:18:24.240Z",
+    "updatedAt": "2025-09-12T03:18:24.240Z"
+  },
+  "req_mfg9pj05_l5ff4194": {
+    "id": "req_mfg9pj05_l5ff4194",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:18:31.541Z",
+    "updatedAt": "2025-09-12T03:18:31.541Z"
+  },
+  "req_mfg9tnmo_fvm6zl98": {
+    "id": "req_mfg9tnmo_fvm6zl98",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:21:44.160Z",
+    "updatedAt": "2025-09-12T03:21:44.160Z"
+  },
+  "req_mfg9u521_kbkv22qs": {
+    "id": "req_mfg9u521_kbkv22qs",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:22:06.745Z",
+    "updatedAt": "2025-09-12T03:22:06.745Z"
+  },
+  "req_mfg9uuqb_tz4eym2j": {
+    "id": "req_mfg9uuqb_tz4eym2j",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:22:40.019Z",
+    "updatedAt": "2025-09-12T03:22:40.019Z"
+  },
+  "req_mfg9uy0a_32shgrxq": {
+    "id": "req_mfg9uy0a_32shgrxq",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T03:22:44.266Z",
+    "updatedAt": "2025-09-12T03:22:44.266Z"
+  },
+  "req_mfg9xhjm_dmf7bfwx": {
+    "id": "req_mfg9xhjm_dmf7bfwx",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "completed",
+    "createdAt": "2025-09-12T03:24:42.898Z",
+    "updatedAt": "2025-09-12T03:26:16.896Z"
+  }
+}

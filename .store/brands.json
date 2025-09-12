@@ -1,0 +1,60 @@
+{
+  "dev-account-123": {
+    "accountId": "dev-account-123",
+    "brand": {
+      "name": "TechFlow Solutions",
+      "industry": "Software Development",
+      "description": "A modern software consultancy specializing in AI-powered business solutions and digital transformation.",
+      "oneLineDescription": "Transforming businesses through intelligent software solutions",
+      "audienceSummary": "Tech-savvy business owners, CTOs, and decision-makers at mid-size companies looking to modernize their operations",
+      "valueProp": "We turn complex business challenges into elegant software solutions that drive growth and efficiency",
+      "tone": "professional",
+      "targetAudience": "Business leaders and technical decision-makers",
+      "logoUrl": "https://via.placeholder.com/200x80/0066CC/FFFFFF?text=TechFlow",
+      "primaryColorHex": "#0066CC",
+      "secondaryColorHexes": [
+        "#00A3E0",
+        "#7B68EE",
+        "#20B2AA"
+      ],
+      "fontName": "Inter",
+      "wordsWeLove": [
+        "innovative",
+        "efficient",
+        "scalable",
+        "intelligent",
+        "streamlined",
+        "cutting-edge",
+        "transformation",
+        "optimization",
+        "automation",
+        "growth-driven"
+      ],
+      "wordsToAvoid": [
+        "cheap",
+        "basic",
+        "outdated",
+        "complicated",
+        "expensive",
+        "slow",
+        "legacy",
+        "manual",
+        "inefficient"
+      ],
+      "heroItems": [
+        "AI-powered business automation",
+        "Cloud migration and optimization",
+        "Custom software development",
+        "Digital transformation consulting",
+        "Data analytics and insights"
+      ],
+      "imageStyleNote": "Clean, modern, tech-focused imagery with blue and white color scheme. Prefer abstract tech illustrations, office environments, and professional team photos.",
+      "exampleImageUrls": [
+        "https://images.unsplash.com/photo-1551434678-e076c223a692?w=400",
+        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
+        "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=400"
+      ]
+    },
+    "updatedAt": "2025-09-12T03:24:37.972Z"
+  }
+}
