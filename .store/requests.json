@@ -323,5 +323,39 @@
     "status": "completed",
     "createdAt": "2025-09-12T03:24:42.898Z",
     "updatedAt": "2025-09-12T03:26:16.896Z"
+  },
+  "req_mfh8fxvk_wgbijjir": {
+    "id": "req_mfh8fxvk_wgbijjir",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T19:30:50.816Z",
+    "updatedAt": "2025-09-12T19:30:50.816Z"
+  },
+  "req_mfh8ga8n_6sxlw5u6": {
+    "id": "req_mfh8ga8n_6sxlw5u6",
+    "accountId": "dev-account-123",
+    "brief": {
+      "goal": "Promote our new AI automation service to attract tech-savvy business owners",
+      "theme": "Digital transformation and efficiency",
+      "callToAction": "Schedule a free consultation",
+      "constraints": [
+        "Keep it professional but approachable",
+        "Highlight ROI benefits"
+      ],
+      "socialPlatform": "linkedin"
+    },
+    "status": "queued",
+    "createdAt": "2025-09-12T19:31:06.839Z",
+    "updatedAt": "2025-09-12T19:31:06.839Z"
   }
 }

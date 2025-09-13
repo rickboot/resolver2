@@ -1,0 +1,12 @@
+{
+  "name": "ai-processor-lambda",
+  "version": "1.0.0",
+  "description": "AWS Lambda function for AI content processing",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.705.0",
+    "@aws-sdk/client-secrets-manager": "^3.705.0",
+    "openai": "^5.20.1",
+    "pg": "^8.13.1"
+  }
+}
